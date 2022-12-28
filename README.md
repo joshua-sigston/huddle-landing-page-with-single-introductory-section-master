@@ -1,0 +1,1 @@
+Do not have desing specs. Not having the spec made it really hard on adjusting image or content to fit design, so I just left it how it is with basic background image positioning. 
